@@ -15,5 +15,5 @@ def contar_vocales(msg):
     print(contador)
 
 
-contar_vocales("Hola mundo")
-contar_vocales("bcdf")
+contar_vocales("Hola mundo") # Salida 4 
+contar_vocales("bcdf") # Salida 0
