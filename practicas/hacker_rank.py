@@ -21,6 +21,7 @@ lower_list = sorted(lower_list)
 upper_list = sorted(upper_list)
 odd_list = sorted(odd_list)
 even_list = sorted(even_list)
+
 final_list = lower_list + upper_list + odd_list + even_list
 print("".join(final_list))
             
