@@ -1,0 +1,3 @@
+Nombre: sergio, Telefono: 123, Email: sergio@gmail.com
+Nombre: angel, Telefono: 234, Email: angel@gmail.com
+Nombre: erika, Telefono: 345, Email: erika@gmail.com
