@@ -19,4 +19,6 @@ with open ("alumnos.csv","r") as file:
 
     for row in reader:
         if float(row["calificacion"]) >= 8 :
-            print(f"Nombre:{row["nombre"]}\nEdad:{row["edad"]}\nCalificacion:{row["calificacion"]}")
+            print(row)
+            # print(f"Nombre:{row["nombre"]}\nEdad:{row["edad"]}\nCalificacion:{row["calificacion"]}")
+            
