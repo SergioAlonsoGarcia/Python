@@ -49,9 +49,9 @@ for file in os.listdir():
 # METADATA
 # print(os.path.abspath("carpeta"))
 
-script = Path("pruebas.py")
+# script = Path("pruebas.py")
 
-print(script.resolve())
-print(script.stem) # nombre del archivo
-print(script.suffix) # extencion del archivo
-print(script.stat().st_size)
+# print(script.resolve())
+# print(script.stem) # nombre del archivo
+# print(script.suffix) # extencion del archivo
+# print(script.stat().st_size) # Tamaño de archivo
