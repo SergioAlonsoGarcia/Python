@@ -1,0 +1,22 @@
+[
+    {
+        "nombre": "laptoop",
+        "precio": 1500,
+        "cantidad": 1
+    },
+    {
+        "nombre": "manzanas",
+        "precio": 10,
+        "cantidad": 12
+    },
+    {
+        "nombre": "Audifonos",
+        "precio": 800,
+        "cantidad": 1
+    },
+    {
+        "nombre": "clara de huevo",
+        "precio": 43,
+        "cantidad": 2
+    }
+]
